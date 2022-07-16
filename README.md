@@ -11,3 +11,5 @@
 19-5 Calculate Factorial of a number using for loop
 
 19-6 Recalculate factorial multiple times using a function
+
+19-7 Factorial using a while loop or a decrementing loop
