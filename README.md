@@ -9,3 +9,5 @@
 19-4 Check whether a year is a Leap Year or not
 
 19-5 Calculate Factorial of a number using for loop
+
+19-6 Recalculate factorial multiple times using a function
