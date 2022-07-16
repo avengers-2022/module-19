@@ -13,3 +13,7 @@
 19-6 Recalculate factorial multiple times using a function
 
 19-7 Factorial using a while loop or a decrementing loop
+
+19-8 (advanced) Calculate Factorial in a Recursive function (Not Dome)
+
+19-9 Module Summary and Simple JavaScript debug
